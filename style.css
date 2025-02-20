@@ -1,0 +1,101 @@
+body {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+header {
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+h1 a {
+    color: orange;
+}
+section a {
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.smr {
+    background-color: pink;
+    text-align: left;
+}
+.dam {
+    background-color: gray;
+    text-align: center;
+}
+.asir {
+    background-color: lightblue;
+    text-align: right;
+}
+footer {
+    color: blue;
+    background-color: yellow;
+    padding: 10px;
+    font-weight: bold;
+}
+footer span {
+    color: red;
+}
+
+hr{
+    width: 600%;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px; 
+}
+
+.contenedor {
+    background-color: #ffffcc;
+    padding: 20px;
+    width: 400px;
+}
+
+
+label {
+    font-weight: bold;
+    color: orange;
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+.conte {
+    background-color: #ffffcc;
+    padding: 20px;
+    width: 700px;
+}
+.titulo-horario {
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    color: red;
+    border: 3px double black;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+    border: 3px double black;
+}
+
+
+
